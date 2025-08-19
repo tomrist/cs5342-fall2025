@@ -76,7 +76,7 @@ credit, and opportunities for extra credit. You'll be graded according to the fo
 | **1: T&S Foundations** (individual) | Students will apply key T&S frameworks to hypothetical and real-world examples. The assignment includes ten multiple-choice and five 150-word answer questions. | 20% |
 | **2: Policy proposal** (group) | Students will develop a policy document describing a Trust & Safety intervention on the platform BlueSky. This includes defining the content to encourage or discourage, a threat modeling assessment, and a full set of prevention and mitigation measures. | 30% |
 | **3: Automated moderator** (group) | Students will build a labeler on BlueSky that automatically labels certain types of accounts and posts. | 30% |
-| **4: Class participation** | Students will regularly participate in class discussions on assigned readings, write blurbs about guest lecture takeaways, and be assessed by peers on equitable contribution to group activities. | 20% |
+| **4: Class participation** (individual) | Students will regularly participate in class discussions on assigned readings, write blurbs about guest lecture takeaways, and be assessed by peers on equitable contribution to group activities. | 20% |
 
 Grades will not be curved, so everyone could get an A in the class if
 everyone does well. 
