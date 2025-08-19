@@ -73,10 +73,11 @@ credit, and opportunities for extra credit. You'll be graded according to the fo
 
 | Activity | Overview | Point Values |
 | :--- | :--- | :--- |
-| **1: T&S Foundations** (individual) | Students will apply key T&S frameworks to hypothetical and real-world examples. The assignment includes ten multiple-choice and five 150-word answer questions. | 20% |
-| **2: Policy proposal** (group) | Students will develop a policy document describing a Trust & Safety intervention on the platform BlueSky. This includes defining the content to encourage or discourage, a threat modeling assessment, and a full set of prevention and mitigation measures. | 30% |
-| **3: Automated moderator** (group) | Students will build a labeler on BlueSky that automatically labels certain types of accounts and posts. | 30% |
-| **4: Class participation** (individual) | Students will regularly participate in class discussions on assigned readings, write blurbs about guest lecture takeaways, and be assessed by peers on equitable contribution to group activities. | 20% |
+| **1: T&S Foundations** (individual) | 
+Students will be asked to apply key T&S frameworks to hypothetical and real world examples. The assignment is composed of ten multiple choice and five 150-word answer questions. | 20% |
+| **2: Policy proposal** (group) | Students will develop a policy document that describes a Trust & Safety intervention on the platform BlueSky. This will include a definition of the type of content they want to encourage or discourage, a threat modeling assessment, and a full set of prevention and mitigation measures including product design, algorithmic interventions and manual enforcement guidelines. | 30% |
+| **3: Automated moderator** (group) | Students will build a labeler on BlueSky that automatically labels certain types of accounts / posts. | 30% |
+| **4: Class participation** (individual) | Students will be expected to participate regularly in class, most notably by discussing assigned readings. Students will also write blurbs about their main takeaways from guest lectures. Finally, students will be assessed by their peers on their equitable contribution to the group activity. | 20% |
 
 Grades will not be curved, so everyone could get an A in the class if
 everyone does well. 
