@@ -90,8 +90,9 @@ The bulk of material will be delivered via lecture, as such you won't get much
 out of the class if you skip lectures and won't be prepared for homeworks. We
 will make slides available, but do not plan to record lectures.  
 
-Participation scores will be based on contributing questions ahead of guest
-lectures, as well as contributing to in-class discussions. 
+Participation scores will be based on regular participation in class
+discussions, contributing blurbs about guest
+lectures, and by peer review on group project contributions.
 
 
 
